@@ -20,5 +20,16 @@ Photoshop CC 2019
 python-3.7.0
 SqlDeveloper (商业级数据库可视化软件，适合绑定oracle)
 wampserver2.5 (由于版本的问题，网上很多版本的wamp不稳定)
-Oracle 
+Oracle 19C 19.6
+
+
+
+Mac:
+Adobe_DC
+JDK 12.0.2(新版本jdk可能会出问题，建议自己去搜1.7的拿来用)
+MyEclipse2018 (新手不友好，建议使用Eclipse )
+PS_2020
+PyCharm_2019.2.3
+WebStorm_2019.2.3
+
 
