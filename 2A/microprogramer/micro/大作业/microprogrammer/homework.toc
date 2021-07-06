@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction}{3}% 
+\contentsline {section}{\numberline {2}Analyse}{4}% 
+\contentsline {section}{\numberline {3}Changement du sens}{7}% 
+\contentsline {section}{\numberline {4}Realisation le contr\IeC {\^o}le de la vitesse}{9}% 
+\contentsline {section}{\numberline {5}Mesure de vitesse de la rotation}{12}% 
+\contentsline {section}{\numberline {6}Conclusion}{14}% 
